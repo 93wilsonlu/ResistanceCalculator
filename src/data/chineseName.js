@@ -1,0 +1,21 @@
+const chineseName = {
+  num1: "色環1",
+  num2: "色環2",
+  num3: "色環3",
+  multiplier: "倍數",
+  tolerance: "誤差",
+  black: "黑",
+  brown: "棕",
+  red: "紅",
+  orange: "橘",
+  yellow: "黃",
+  green: "綠",
+  blue: "藍",
+  violet: "紫",
+  gray: "灰",
+  white: "白",
+  gold: "金",
+  silver: "銀",
+  none: "無",
+};
+export default chineseName;
