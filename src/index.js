@@ -5,6 +5,8 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.css";
 
+document.title = "電阻計算器";
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
